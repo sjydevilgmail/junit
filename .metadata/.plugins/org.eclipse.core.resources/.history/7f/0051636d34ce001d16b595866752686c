@@ -1,0 +1,13 @@
+package hello;
+
+public class MyHandler implements Handler<RoutingContext> {
+    @Override
+    public void handle(RoutingContext event) {
+        HttpServerRequest request = event.request();
+        Buffer body = event.getBody();
+        HttpServerResponse response = event.response();
+        // Some code to test
+        response.setStatusCode(200);
+        response.end();
+    }
+};
