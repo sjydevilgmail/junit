@@ -1,4 +1,0 @@
-eclipse.preferences.version=1
-v2_2_001/GENERAL=debugNo|yes|yes|yes|yes|yes|yes|
-v2_2_001/MENU=0|ebec8397-8477-49be-a542-cbb120cefbc3|true|menuNameTypeOpenHere|Open ${easyshell\:command_name} Here|none|d2726c3f-6da3-46b5-8029-1c63d0ff6bd2|\#1|ad8dd845-42af-4761-848d-bc23fd98a2b1|true|menuNameTypeGeneric2|${easyshell\:command_category} with ${easyshell\:command_name}|none|03e6678b-f67f-42ed-b65f-6b6f06ec0e8f|\#2|ae0e5b6e-0b20-4c52-9708-ba7e317d1dee|true|menuNameTypeShowIn|Show in ${easyshell\:command_name}|none|ae0e5b6e-0b20-4c52-9708-ba7e317d1dee|\#3|33043fe3-1a5f-46d7-b94e-9a02ef204e7d|true|menuNameTypeCopyToClipboard|Copy ${easyshell\:command_name} to Clipboard|none|33043fe3-1a5f-46d7-b94e-9a02ef204e7d|\#4|88989d78-cf17-4750-91fc-6260055743ae|true|menuNameTypeCopyToClipboard|Copy ${easyshell\:command_name} to Clipboard|none|88989d78-cf17-4750-91fc-6260055743ae|\#
-v2_2_001/MIGRATED=true
